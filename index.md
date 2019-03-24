@@ -19,7 +19,8 @@ We are not responsible for the use of our applications of failures in devices or
 
 Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page.
 
-If you have any questions or concerns about our privacy policies, please [contact us](dwshz95@gmail.com)
+If you have any questions or concerns about our privacy policies, please contact us: 
+dwshz95@gmail.com
 
 
 
