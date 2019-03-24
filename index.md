@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Super 16
 
-You can use the [editor on GitHub](https://github.com/d-w-s-h/Super16/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Privacy policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Privacy Policy describes the information collected through mobile application Super 16.
 
-### Markdown
+Super 16:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Do not collect any user information.
+2. Do not contain in-app purchases.
+3. Requires permissions to use the camera android.permission.CAMERA and microphone android.permission.RECORD_AUDIO. The camera and microphone is used by the application only to implement the main function of Super 16 - video recording with real-time processing.
+4. Requires permission to save recorded videos in external storage android.permission.WRITE_EXTERNAL_STORAGE.
 
-```markdown
-Syntax highlighted code block
+Anonymous information that we get about users from other services such as Google Analytics, Google Play and others includes: information about the installation (for example, operating system type and application version number), information about the device (hardware model and the version of the operating system) and users behavior information.
 
-# Header 1
-## Header 2
-### Header 3
+All data that we collect is used for internal analysis and research to improve our products and make it better for you.
 
-- Bulleted
-- List
+We are not responsible for the use of our applications of failures in devices or breakage.
 
-1. Numbered
-2. List
+Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page.
 
-**Bold** and _Italic_ and `Code` text
+If you have any questions or concerns about our privacy policies, please [contact us](dwshz95@gmail.com)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d-w-s-h/Super16/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
