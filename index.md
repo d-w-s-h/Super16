@@ -8,7 +8,7 @@ Super 16:
 
 1. Do not collect any user information.
 2. Do not contain in-app purchases.
-3. Requires permissions to use the camera android.permission.CAMERA and microphone android.permission.RECORD_AUDIO. The camera and microphone is used by the application only to implement the main function of Super 16 - video recording with real-time processing.
+3. Requires permissions to use the camera android.permission.CAMERA and microphone android.permission.RECORD_AUDIO. The camera and microphone are used by the application only to implement the main function of Super 16 - video recording with real-time processing.
 4. Requires permission to save recorded videos in external storage android.permission.WRITE_EXTERNAL_STORAGE.
 
 Anonymous information that we get about users from other services such as Google Analytics, Google Play and others includes: information about the installation (for example, operating system type and application version number), information about the device (hardware model and the version of the operating system) and users behavior information.
