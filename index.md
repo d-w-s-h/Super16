@@ -7,7 +7,7 @@ This Privacy Policy describes the information collected through mobile applicati
 Super 16:
 
 1. Do not collect any user information.
-2. App contain in-app purchases.
+2. App contains in-app purchases.
 3. Requires permissions to use the camera android.permission.CAMERA and microphone android.permission.RECORD_AUDIO. The camera and microphone are used by the application only to implement the main function of Super 16 - video recording with real-time processing.
 4. Requires permission to save recorded videos in external storage android.permission.WRITE_EXTERNAL_STORAGE.
 
