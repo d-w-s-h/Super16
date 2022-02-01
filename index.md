@@ -15,8 +15,8 @@ Super 16:
 As a general matter, you can browse the Super 16 without submitting your personal information to us. However, there are a
 number of circumstances in which you may supply us or our agents with your personal information. The following lists the
 most common ways in which we may collect your personal information (name, email address).
-• Registration for an account on the Super 16 
-• Uploading Content to the Super 16
+- Registration for an account on the Super 16 
+- Uploading Content to the Super 16
 
 #### How do we store your personal data?
 
